@@ -1,6 +1,6 @@
 # CivitAI Backup Tool
 
-## Download all image posted by an user
+## Download all images posted by an user
 
 ```bash
 node download-all-images.mjs USERNAME
